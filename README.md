@@ -1,3 +1,5 @@
 # python-ms
 ---
-### python机器学习numpy模块知识点
+### python机器学习
+- numpy
+- pandas
